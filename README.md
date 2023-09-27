@@ -1,8 +1,4 @@
-# TransferDet
-
-This is the repository containing team OverFeat's submission to CVPPP 2020's Wheat Detection Challenge. 
-
-Final Ranking: 2/2245 (Solo Gold)
+WheatWatch: AI-Powered Wheat Detection and Crop Monitoring for Agricultural Advancement
 
 Leaderboard: https://www.kaggle.com/c/global-wheat-detection/leaderboard
 
